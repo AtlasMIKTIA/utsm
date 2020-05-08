@@ -1,9 +1,9 @@
+
 [
-    {"nombre": "Alejandro", "apodo":"Mai"},
-    {"nombre": "Leonel", "apodo":"Buchona"},
-    {"nombre": "Moises", "apodo":"Khalifa"},
-    {"nombre": "Noe", "apodo":"Ciclope"},
-    {"nombre": "Aldair", "apodo":"El Vendedor"},
-    {"nombre": "Fernanda", "apodo":"Tatuada"}
-    {"nombre": "German", "apodo":"Nuestro Salvador"}
-  ]
+    {"sabor":"Alejandro","seleccionado":false},
+    {"sabor":"Leonel","seleccionado":false},
+    {"sabor":"Moises","seleccionado":false},
+    {"sabor":"Noe","seleccionado":false},
+    {"sabor":"Aldair","seleccionado":false},
+    {"sabor":"Fernanda","seleccionado":false}
+]
