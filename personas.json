@@ -1,9 +1,9 @@
 
 [
-    {"sabor":"Alejandro","seleccionado":false},
-    {"sabor":"Leonel","seleccionado":false},
-    {"sabor":"Moises","seleccionado":false},
-    {"sabor":"Noe","seleccionado":false},
-    {"sabor":"Aldair","seleccionado":false},
-    {"sabor":"Fernanda","seleccionado":false}
+    {"nombre":"Alejandro","seleccionado":false},
+    {"nombre":"Leonel","seleccionado":false},
+    {"nombre":"Moises","seleccionado":false},
+    {"nombre":"Noe","seleccionado":false},
+    {"nombre":"Aldair","seleccionado":false},
+    {"nombre":"Fernanda","seleccionado":false}
 ]
